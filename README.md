@@ -25,10 +25,6 @@
 - A UI is created using Tkinter of Python.
 - The desktop application worked properly and gave accurate results of the classification.
 
-### **The UI:**
-![alt text](<Screenshot 2024-03-27 183511.png>)
 
-### **Output:**
-![alt text](<Screenshot 2024-03-27 183731.png>)
 
    
